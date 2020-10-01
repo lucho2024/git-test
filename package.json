@@ -5,13 +5,14 @@
   "main": "index.html",
   "scripts": {
     "start": "npm run lite",
-    " lite " : "lite-server" ,
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite" : "lite-server" ,
+    "test": "echo \"Error: no test specified\" && exit 1"
     
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lucho2024/git-test.git",
+    "url": "git+https://github.com/lucho2024/git-test.git"
+  
 
   },
   "author": "luis montoya",
