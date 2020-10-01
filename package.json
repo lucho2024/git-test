@@ -1,0 +1,26 @@
+{
+  "name": "git-test",
+  "version": "1.0.0",
+  "description": "this is a test directory to learn git and node",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    " lite " : "lite-server" ,
+    "test": "echo \"Error: no test specified\" && exit 1",
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucho2024/git-test.git",
+
+  },
+  "author": "luis montoya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucho2024/git-test/issues"
+  },
+  "homepage": "https://github.com/lucho2024/git-test#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
